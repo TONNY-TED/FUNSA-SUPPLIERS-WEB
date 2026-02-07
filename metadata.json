@@ -1,0 +1,7 @@
+{
+  "name": "FUNSA Suppliers Platform",
+  "description": "An enterprise-level medical and surgical supply platform featuring role-based access control, dynamic product management, and a professional quote request system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
